@@ -1,4 +1,4 @@
 baseURL = 'https://calebho.com/'
 languageCode = 'en-us'
 title = 'Caleb Ho Blog'
-theme = 'ananke'
+theme = 'stack'
